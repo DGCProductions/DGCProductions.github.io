@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://opengameart.org/sites/default/files/seamless%20space_0.PNG");
+} 
+
+#bot {
+  position: absolute;
+    left:100px;
+    top:300px;
+}
+#start {
+    position: absolute;
+    left:100px;
+    top:100px;
+}
+#middle {
+     position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  border-color: red;
+}
