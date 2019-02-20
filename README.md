@@ -2,6 +2,8 @@
 
 **Click'in 30 is back on another platform! It's now on browser!**
 
+# [PLAY HERE!](https://dgcproductions.github.io/)
+
 ## **Versions**
 Current Version: v1.0
 
