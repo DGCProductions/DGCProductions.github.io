@@ -27,6 +27,6 @@ Upcoming Version: TBD
  
  ## **Credits**
 
-** Written in Javascript :) **
+**Written in Javascript :)**
  
  **Created by DGC Productions** 
