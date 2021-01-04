@@ -9,7 +9,7 @@ Current Version: v1.0
 
 Current BETA: N/A
 
-Upcoming Version: TBD
+Upcoming Version: N/A
 
 
 ## **What the game is about...**
