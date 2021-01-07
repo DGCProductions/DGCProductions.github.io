@@ -26,7 +26,5 @@ Upcoming Version: N/A
 
  
  ## **Credits**
-
-**Written in Javascript :)**
  
  **Created by DGC Productions** 
