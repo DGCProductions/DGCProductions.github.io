@@ -23,6 +23,7 @@ Upcoming Version: N/A
 ## **Features (current and future plans)**
 - Up and running site
 - Timer with javascript
+- Hyperlink to github
 
  
  ## **Credits**
