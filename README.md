@@ -5,7 +5,7 @@
 # [PLAY HERE!](https://dgcproductions.github.io/)
 
 ## **Versions**
-Current Version: v1.0
+Current Version: v1.1
 
 Current BETA: N/A
 
